@@ -1,3 +1,4 @@
-const Person = require('./person');
-const p1 = new Person("walid",21);
-p1.greeting();
+const Logger = require('./Logger')
+const logger = new Logger();
+logger.on('message',(data) => console.log('Called listner ', data)); 
+logger.log("hello world ")
