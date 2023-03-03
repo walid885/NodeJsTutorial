@@ -1,0 +1,19 @@
+{
+  "name": "nodejstutorial",
+  "version": "1.0.0",
+  "description": "This Project is based on a tutorial from Youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walid885/NodeJsTutorial.git"
+  },
+  "author": "walid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walid885/NodeJsTutorial/issues"
+  },
+  "homepage": "https://github.com/walid885/NodeJsTutorial#readme"
+}
