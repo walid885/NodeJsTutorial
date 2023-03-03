@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/walid885/NodeJsTutorial/issues"
   },
-  "homepage": "https://github.com/walid885/NodeJsTutorial#readme"
+  "homepage": "https://github.com/walid885/NodeJsTutorial#readme",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
 }
